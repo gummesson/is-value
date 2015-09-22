@@ -1,7 +1,7 @@
 {
   "name": "is-value",
   "version": "1.0.0",
-  "description": "",
+  "description": "Check if a value exists.",
   "main": "index.js",
   "files": [
     "LICENSE",
@@ -13,7 +13,8 @@
     "url": "https://github.com/gummesson/is-value.git"
   },
   "keywords": [
-    ""
+    "value",
+    "values"
   ],
   "author": "Ellen Gummesson",
   "license": "MIT",
