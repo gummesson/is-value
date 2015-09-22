@@ -1,6 +1,6 @@
 {
   "name": "is-value",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check if a value exists.",
   "main": "index.js",
   "files": [
